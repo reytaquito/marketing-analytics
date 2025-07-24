@@ -1,5 +1,4 @@
-# marketing-analytics
-Optimize 'Showz' marketing spend via user LTV &amp; CAC analysis
+
 # Showz Marketing Analytics
 
 [![Python Version](https://img.shields.io/badge/python-3.10-blue)](https://www.python.org/)  
@@ -7,8 +6,8 @@ Optimize 'Showz' marketing spend via user LTV &amp; CAC analysis
 ---
 
 ## 📄 Project Description
-
-Showz, a ticket‑sales company, has engaged a data analytics intern to optimize its marketing spend. This analysis uses:
+Optimize 'Showz' marketing spend via user LTV &amp; CAC analysis
+'Showz', a ticket‑sales company, has engaged a data analytics intern to optimize its marketing spend. This analysis uses:
 
 - **Web server logs** covering site visits from January 2017 through December 2018  
 - **Order records** for all ticket purchases during the same period  
