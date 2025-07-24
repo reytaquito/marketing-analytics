@@ -1,6 +1,6 @@
 # marketing-analytics
 Optimize 'Showz' marketing spend via user LTV &amp; CAC analysis
-# Showz Marketing Analytics Internship Project
+# Showz Marketing Analytics
 
 [![Python Version](https://img.shields.io/badge/python-3.10-blue)](https://www.python.org/)  
 
